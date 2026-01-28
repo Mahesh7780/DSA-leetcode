@@ -22,5 +22,9 @@ class Solution:
                 return True
         else : 
             return False
+
+
+#or
+return len(nums) != len(set(nums))
         
         
