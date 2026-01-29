@@ -8,3 +8,5 @@ class Solution:
             j.remove('0')
 
         return int(''.join(j))
+# OR
+return int(''.join(d for d in str(n) if d != '0'))
