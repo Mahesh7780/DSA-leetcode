@@ -12,7 +12,7 @@ class Solution:
         return k
 
 
-#or
+#OR 
 class Solution:
     def removeDuplicates(self, nums):
         k = 0
