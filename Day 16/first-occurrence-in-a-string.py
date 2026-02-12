@@ -5,3 +5,6 @@ class Solution:
             if haystack[i:i+len(needle)] == needle:
                 return i
         return -1
+class Solution:
+    def strStr(self, haystack, needle):
+        return haystack.find(needle)
