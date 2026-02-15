@@ -7,7 +7,7 @@ class Solution:
             if b[i]!=a[i]:
                 return a[i]
         return a[-1]
-#or
+#OR
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
         result = 0
