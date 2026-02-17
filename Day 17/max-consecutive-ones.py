@@ -12,7 +12,6 @@ class Solution:
     def findMaxConsecutiveOnes(self, nums):
         max_count = 0
         count = 0
-        
         for num in nums:
             if num == 1:
                 count += 1
