@@ -8,7 +8,7 @@ class Solution:
             nums.remove(val)  # 3   
         return len(nums) # to return length of nums
         
-            # or
+            # OR
 # class Solution:
 #     def removeElement(self, nums, val):
 #         k = 0  #temp
