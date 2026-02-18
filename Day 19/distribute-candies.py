@@ -7,9 +7,7 @@ class Solution:
         if m>a: #set len > a
             return a
         return m
-
-
-        #or
+#OR
         return min(len(set(candyType)),len(candyType)//2)
 
         
