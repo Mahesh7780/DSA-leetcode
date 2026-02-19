@@ -9,5 +9,3 @@ class Solution:
         return m
 #OR
         return min(len(set(candyType)),len(candyType)//2)
-
-        
