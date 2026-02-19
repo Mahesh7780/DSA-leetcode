@@ -8,5 +8,3 @@ class Solution:
             if t[i]==t[i+1]:
                 return False
         return True
-        
-        
