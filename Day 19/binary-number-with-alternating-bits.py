@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/binary-number-with-alternating-bits/description/
+
 class Solution:
     def hasAlternatingBits(self, n: int) -> bool:
         b=bin(n)
