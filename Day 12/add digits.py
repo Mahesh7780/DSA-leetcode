@@ -15,4 +15,3 @@ class Solution:
             b= [int(d) for d in str(num)]
             num=sum(b)
         return num
-        
