@@ -6,8 +6,7 @@ class Solution:
         le= 0
         ma =0
 
-        for ri in range(len(s)):
-            
+        for ri in range(len(s)):     
             while s[ri] in se:
                 se.remove(s[le])
                 le += 1
