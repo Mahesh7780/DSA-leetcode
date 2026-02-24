@@ -12,4 +12,5 @@ class Solution:
             else:
                 stack.append(ch)
 
+        
         return not stack
