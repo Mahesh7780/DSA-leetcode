@@ -7,8 +7,8 @@ class Solution:
         #     while t > 0:
         #         s += t % 10
         #         t //= 10
-        #         num= s
-        # return(num)
+                 num= s
+        return(num)
 # OR
         while num >=10:
     
