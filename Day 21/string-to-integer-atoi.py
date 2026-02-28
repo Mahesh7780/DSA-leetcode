@@ -26,6 +26,7 @@ class Solution:
 
         return sign * num
 
+#this does't work 
 #class Solution:
 #     def myAtoi(self, n: str) -> int:
 #         c=n.replace(" ", "") and n.replace("0","")
