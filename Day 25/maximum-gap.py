@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/maximum-gap/description/
+
 class Solution:
     def maximumGap(self, nums: List[int]) -> int:
         nums.sort()
