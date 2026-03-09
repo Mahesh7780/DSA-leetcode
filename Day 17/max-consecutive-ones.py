@@ -7,6 +7,7 @@ class Solution:
             b = max(b, a)
         return b
 #OR
+
 class Solution:
     def findMaxConsecutiveOnes(self, nums):
         max_count = 0
