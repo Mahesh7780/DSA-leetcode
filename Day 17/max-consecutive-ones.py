@@ -6,7 +6,6 @@ class Solution:
             a = a + 1 if num == 1 else 0
             b = max(b, a)
         return b
-
 #OR
 class Solution:
     def findMaxConsecutiveOnes(self, nums):
