@@ -6,6 +6,7 @@ class Solution:
         c = sorted(d)
         n = len(c)
 
+        
         if n % 2 == 1:
             return c[n // 2]
         else:
