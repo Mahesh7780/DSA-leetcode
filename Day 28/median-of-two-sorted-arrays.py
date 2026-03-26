@@ -2,7 +2,6 @@
 
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-
         d = nums1 + nums2
         c = sorted(d)
         n = len(c)
