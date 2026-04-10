@@ -11,6 +11,7 @@ class Solution:
             count += 1
 
         return count
+        
 #or
 class Solution:
     def countOperations(self, num1: int, num2: int) -> int:
