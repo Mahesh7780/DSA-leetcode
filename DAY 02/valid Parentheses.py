@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/valid-parentheses/?roomId=sTrBMv
+
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = [] 
