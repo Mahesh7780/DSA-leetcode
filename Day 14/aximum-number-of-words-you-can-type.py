@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2026-02-05
+
 class Solution(object):
     def canBeTypedWords(self, text: str, brokenLetters: str) -> int:
         m = text.split()
